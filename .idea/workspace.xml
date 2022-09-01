@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfed80d5-f42a-44be-93e7-69b8fc4904af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SecondToDays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Days.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Days.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Days">
+  <component name="RunManager" selected="Application.CyclelFor">
+    <configuration name="CyclelFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyclelFor" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Days" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Days" />
       <module name="HelloWorld" />
@@ -66,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclelFor" />
         <item itemvalue="Application.Days" />
         <item itemvalue="Application.SecondToDays" />
         <item itemvalue="Application.HelloWorld" />
@@ -93,16 +98,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Days.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
