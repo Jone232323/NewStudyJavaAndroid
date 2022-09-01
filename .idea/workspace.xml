@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfed80d5-f42a-44be-93e7-69b8fc4904af" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AreaOfTheCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheoremByPifagor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.AreaOfTheCircle">
+  <component name="RunManager" selected="Application.TheoremByPifagor">
     <configuration name="AreaOfTheCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaOfTheCircle" />
       <module name="HelloWorld" />
@@ -64,13 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondToDays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SecondToDays" />
-      <module name="HelloWorld" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TaskSpeedOfLight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TaskSpeedOfLight" />
       <module name="HelloWorld" />
@@ -78,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TheoremByPifagor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheoremByPifagor" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TheoremByPifagor" />
         <item itemvalue="Application.AreaOfTheCircle" />
         <item itemvalue="Application.TaskSpeedOfLight" />
         <item itemvalue="Application.CyclelFor" />
         <item itemvalue="Application.Days" />
-        <item itemvalue="Application.SecondToDays" />
       </list>
     </recent_temporary>
   </component>
