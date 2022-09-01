@@ -6,6 +6,15 @@ public class HelloWorld {
 
         namesOfMyFamilyMembers.printAllNames();
 
+        int a = 5;
+        int b = 7;
+        int c = a + b;
+
+        c*=a;
+
+        System.out.println("a + b = "+c);
+
+
 
     }
 }
